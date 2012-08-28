@@ -1,8 +1,0 @@
-category: Xfce
-requires: libcairo2 libgdk_pixbuf2.0_0 libglib2.0_0 libgtk2.0_0 libxfce4util6 libxfcegui4_4 xfce4-panel
-sdesc: "Xfce4 disk free space panel plugin"
-ldesc: "The FSGuard panel plugin checks free space on a chosen mount 
-point frequently and displays a message when a limit is reached.  There 
-are two limits: a warning limit where only the icon changes, and an 
-urgent limit that advise the user with a message.  The icon button can 
-be clicked to open the chosen mount point."
