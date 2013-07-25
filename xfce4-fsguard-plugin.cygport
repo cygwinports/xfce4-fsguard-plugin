@@ -1,5 +1,8 @@
 inherit xfce4
 
+NAME="xfce4-fsguard-plugin"
+VERSION=1.0.1
+RELEASE=1
 CATEGORY="Xfce"
 SUMMARY="Xfce4 disk free space panel plugin"
 DESCRIPTION="The FSGuard panel plugin checks free space on a chosen mount point
